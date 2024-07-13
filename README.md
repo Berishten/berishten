@@ -6,25 +6,6 @@
 
 ---
 
-## Experiencia Laboral
-
-### Desarrollador Full Stack - XCommerce
-- **Desde Ago, 2023**
-- Desarrollo y mantenimiento de tiendas e-commerce utilizando PHP, Angular, Vue y JS.
-- Mejora de la velocidad de carga en un 25% y optimización de flujos de trabajo.
-
-### Desarrollador Front-End - DreamLab Austria
-- **Abr, 2022 - Jul, 2022**
-- Diseño e implementación de interfaces de usuario con Angular y JavaScript.
-- Colaboración efectiva con equipos multidisciplinarios para alcanzar objetivos de producto.
-
-### Desarrollador Full Stack Junior - Everis Temuco
-- **Ene, 2020 - Jun, 2021**
-- Desarrollo de aplicaciones web con Java, Angular y React.
-- Participación activa en la toma de requerimientos y refinamiento junto al cliente.
-
----
-
 ## Habilidades Clave
 
 - **Tecnologías**: Java (Spring), Angular, React, PHP, Vue, JavaScript, TypeScript, NodeJS, HTML, CSS, SCSS.
