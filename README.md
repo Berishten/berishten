@@ -1,7 +1,5 @@
 # Pablo Escobar Vega - Desarrollador Full Stack
 
-## Acerca de mí
-
 ¡Hola! Soy Pablo, un apasionado desarrollador Full Stack con experiencia en la creación de soluciones robustas y escalables. Me especializo en Java (Spring), Angular y React, con habilidades sólidas en metodologías ágiles como SCRUM. Mi objetivo es contribuir en proyectos innovadores y seguir aprendiendo sobre tecnologías emergentes en inteligencia artificial.
 
 ## Habilidades Clave
