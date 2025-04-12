@@ -23,12 +23,6 @@
 - LinkedIn: [Pablo Escobar Vega](https://www.linkedin.com/in/pablo-escobar-vega/)
 - Ubicación: Pichilemu, Chile
 
-## Disponibilidad
-
-- Disponible inmediatamente
-- Tiempo completo o parcial
-- Disponible para viajar y mudarse según las necesidades del proyecto
-
 ---
 
 ¡Gracias por visitar mi perfil!
